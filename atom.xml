@@ -3,11 +3,11 @@
   <title>DJ Kolatz</title>
   
   <subtitle>Porque o seu evento necessita a melhor banda sonora!</subtitle>
-  <link href="https://kolatz.com/atom.xml" rel="self"/>
+  <link href="https://kolatz.github.com/website/atom.xml" rel="self"/>
   
-  <link href="https://kolatz.com/"/>
+  <link href="https://kolatz.github.com/website/"/>
   <updated>2022-08-02T11:11:38.671Z</updated>
-  <id>https://kolatz.com/</id>
+  <id>https://kolatz.github.com/website/</id>
   
   <author>
     <name>Pedro Kolatz</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://kolatz.com/outros/hello-world/"/>
-    <id>https://kolatz.com/outros/hello-world/</id>
+    <link href="https://kolatz.github.com/website/outros/hello-world/"/>
+    <id>https://kolatz.github.com/website/outros/hello-world/</id>
     <published>2022-08-02T11:11:38.671Z</published>
     <updated>2022-08-02T11:11:38.671Z</updated>
     
