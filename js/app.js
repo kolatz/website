@@ -15,3 +15,9 @@ $(document).ready(function() {
 window.addEventListener('load',function(){
   document.querySelector('body').classList.add("loaded")  
 });
+
+// init bulma collapsibles if any
+$(document).ready(function() {
+  let collapsibles = bulmaCollapsible.attach('.is-collapsible');
+});
+
