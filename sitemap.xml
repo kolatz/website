@@ -3,11 +3,6 @@
 
 
     <sitemap>
-        <loc>https://kolatz.github.com/website/post-sitemap.xml</loc>
-        <lastmod>2022-08-02T11:11:38.671Z</lastmod>
-    </sitemap>
-
-    <sitemap>
         <loc>https://kolatz.github.com/website/page-sitemap.xml</loc>
         <lastmod>2022-08-11T13:50:57.999Z</lastmod>
     </sitemap>
