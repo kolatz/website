@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://kolatz.github.com/website/presskit/</loc>
+        <lastmod>2022-08-11T01:53:38.684Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://kolatz.github.com/website/contacto/</loc>
         <lastmod>2022-08-11T01:36:46.855Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -30,15 +39,6 @@
     <url>
         <loc>https://kolatz.github.com/website/perguntas/</loc>
         <lastmod>2022-08-10T22:14:59.646Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://kolatz.github.com/website/presskit/</loc>
-        <lastmod>2022-08-10T21:10:48.875Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
