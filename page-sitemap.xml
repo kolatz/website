@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://kolatz.github.com/website/galeria/</loc>
+        <lastmod>2022-08-11T00:31:41.652Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://kolatz.github.com/website/perguntas/</loc>
         <lastmod>2022-08-10T22:14:59.646Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -48,15 +57,6 @@
     <url>
         <loc>https://kolatz.github.com/website/contacto/</loc>
         <lastmod>2022-08-08T00:04:15.329Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://kolatz.github.com/website/galeria/</loc>
-        <lastmod>2022-08-08T00:04:08.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
