@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DJ Kolatz</title>
+    <link>https://kolatz.github.com/website/</link>
+    
+    <atom:link href="https://kolatz.github.com/website/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Thu, 11 Aug 2022 15:21:24 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Festas Sra. Da Confianca 2022</title>
+      <link>https://kolatz.github.com/website/eventos/sra-confianca-2022/</link>
+      <guid>https://kolatz.github.com/website/eventos/sra-confianca-2022/</guid>
+      <pubDate>Wed, 10 Aug 2022 23:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;DJ Kolatz estará a finalizar a noite de 7 de Setembro de 2022 nas Festas da Sra. da Confiança em Pedrógão Pequeno. Marquem na vossa agend</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>DJ Kolatz estará a finalizar a noite de 7 de Setembro de 2022 nas Festas da Sra. da Confiança em Pedrógão Pequeno. Marquem na vossa agenda!</p><p>Abraço, Pedro Kolatz :)</p>]]></content:encoded>
+      
+      
+      <category domain="https://kolatz.github.com/website/categories/eventos/">eventos</category>
+      
+      
+      
+      <comments>https://kolatz.github.com/website/eventos/sra-confianca-2022/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
