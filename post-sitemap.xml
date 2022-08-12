@@ -10,7 +10,63 @@
 
     <url>
         <loc>https://kolatz.github.com/website/casamentos/amy-jordan-2022/</loc>
-        <lastmod>2022-08-12T12:47:33.747Z</lastmod>
+        <lastmod>2022-08-12T16:09:27.221Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://kolatz.github.com/website/foto01.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.github.com/website/foto02.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.github.com/website/foto03.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.github.com/website/foto04.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.github.com/website/foto05.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.github.com/website/foto06.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.github.com/website/foto07.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.github.com/website/foto08.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://kolatz.github.com/website/batizados/ema-gui-2022/</loc>
+        <lastmod>2022-08-12T16:09:08.465Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
