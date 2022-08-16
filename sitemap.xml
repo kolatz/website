@@ -3,17 +3,17 @@
 
 
     <sitemap>
-        <loc>https://kolatz.github.com/website/post-sitemap.xml</loc>
+        <loc>https://kolatz.com/post-sitemap.xml</loc>
         <lastmod>2022-08-15T23:39:56.294Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://kolatz.github.com/website/page-sitemap.xml</loc>
+        <loc>https://kolatz.com/page-sitemap.xml</loc>
         <lastmod>2022-08-16T00:20:21.574Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://kolatz.github.com/website/category-sitemap.xml</loc>
+        <loc>https://kolatz.com/category-sitemap.xml</loc>
         <lastmod>2022-08-15T23:39:56.294Z</lastmod>
     </sitemap>
 

@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DJ Kolatz</title>
-    <link>https://kolatz.github.com/website/</link>
+    <link>https://kolatz.com/</link>
     
-    <atom:link href="https://kolatz.github.com/website/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://kolatz.com/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
     <pubDate>Thu, 11 Aug 2022 15:44:11 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>Festas Sra. Confianca 2022</title>
-      <link>https://kolatz.github.com/website/festas/sra-confianca-2022/</link>
-      <guid>https://kolatz.github.com/website/festas/sra-confianca-2022/</guid>
+      <link>https://kolatz.com/festas/sra-confianca-2022/</link>
+      <guid>https://kolatz.com/festas/sra-confianca-2022/</guid>
       <pubDate>Wed, 10 Aug 2022 23:00:00 GMT</pubDate>
       
         
@@ -25,21 +25,21 @@
       
       
       
-      <content:encoded><![CDATA[<p>DJ Kolatz estará a finalizar a noite de 7 de Setembro de 2022 nas Festas da Sra. da Confiança em Pedrógão Pequeno. Marquem na vossa agenda!</p><img src="/website/festas/sra-confianca-2022/SraConfianca-Cartaz22.jpg" class="" title="Sra. da Confiança - Cartaz para 2022"><p>Abraço, Pedro Kolatz :)</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>DJ Kolatz estará a finalizar a noite de 7 de Setembro de 2022 nas Festas da Sra. da Confiança em Pedrógão Pequeno. Marquem na vossa agenda!</p><img src="/festas/sra-confianca-2022/SraConfianca-Cartaz22.jpg" class="" title="Sra. da Confiança - Cartaz para 2022"><p>Abraço, Pedro Kolatz :)</p>]]></content:encoded>
       
       
-      <category domain="https://kolatz.github.com/website/categories/festas/">festas</category>
+      <category domain="https://kolatz.com/categories/festas/">festas</category>
       
       
       
-      <comments>https://kolatz.github.com/website/festas/sra-confianca-2022/#disqus_thread</comments>
+      <comments>https://kolatz.com/festas/sra-confianca-2022/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Casamento Amy &amp; Jordan 2022</title>
-      <link>https://kolatz.github.com/website/casamentos/amy-jordan-2022/</link>
-      <guid>https://kolatz.github.com/website/casamentos/amy-jordan-2022/</guid>
+      <link>https://kolatz.com/casamentos/amy-jordan-2022/</link>
+      <guid>https://kolatz.com/casamentos/amy-jordan-2022/</guid>
       <pubDate>Wed, 20 Jul 2022 23:00:00 GMT</pubDate>
       
         
@@ -49,21 +49,21 @@
       
       
       
-      <content:encoded><![CDATA[<p>Tivemos o prazer de ajudar a criar uma festa de arromba para a Amy e o Jordan que se casaram na <a href="https://www.santosemarcal.pt/index.php/pt/quinta-de-santa-teresinha/casamentos-e-festas">Quinta de Santa Teresinha</a>, <a href="https://goo.gl/maps/mvA6aHqekx6wHBKr5">Sertã</a>.</p><img src="/website/casamentos/amy-jordan-2022/CasamentoAmyJordan.jpg" class="" title="Casamento Amy &amp; Jordan"><p>Neste evento providenciámos o seguinte:</p><ul><li>Gestão da timeline do evento e sincronização com todos os participantes</li><li>Anúncio em inglês dos momentos chave</li><li>Sonorização da cerimónia no jardim, com microfone sem fios e mesa de mistura para o instrumentista que acompanhou</li><li>Sonorização do instrumentista que acompanhou durante o buffet de abertura</li><li>Música ambiente durante a refeição</li><li>Microfone sem fios para os discursos dos noivos e convidados</li><li>Música durante o corte do bolo no exterior</li><li>Festa com música de todos os estilos, mas principalmente rock e pop anos 80s e 90s</li></ul><p>Aqui neste vídeo, pelas 2h00 da madrugada, era suposto acabar a festa, pois os convidados tinham um autocarro à sua espera…</p><div class="video-container"><iframe src="https://www.youtube.com/embed/TqUvjZtLTpk" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p>Mas não acabou… já passava das 3h00 e a pista ainda estava ao rubro com os convidados e os noivos a dançar ao som de Prodigy (a pedido da irmã do noivo). Que festão, pena não ter mais vídeos…! Casamento Escocês, recomendo!</p><p>Abraço, Pedro Kolatz :)</p><p>Agora algumas fotos…</p><p>Clique nas imagens abaixo para as aumentar e ver em modo de galeria:</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>Tivemos o prazer de ajudar a criar uma festa de arromba para a Amy e o Jordan que se casaram na <a href="https://www.santosemarcal.pt/index.php/pt/quinta-de-santa-teresinha/casamentos-e-festas">Quinta de Santa Teresinha</a>, <a href="https://goo.gl/maps/mvA6aHqekx6wHBKr5">Sertã</a>.</p><img src="/casamentos/amy-jordan-2022/CasamentoAmyJordan.jpg" class="" title="Casamento Amy &amp; Jordan"><p>Neste evento providenciámos o seguinte:</p><ul><li>Gestão da timeline do evento e sincronização com todos os participantes</li><li>Anúncio em inglês dos momentos chave</li><li>Sonorização da cerimónia no jardim, com microfone sem fios e mesa de mistura para o instrumentista que acompanhou</li><li>Sonorização do instrumentista que acompanhou durante o buffet de abertura</li><li>Música ambiente durante a refeição</li><li>Microfone sem fios para os discursos dos noivos e convidados</li><li>Música durante o corte do bolo no exterior</li><li>Festa com música de todos os estilos, mas principalmente rock e pop anos 80s e 90s</li></ul><p>Aqui neste vídeo, pelas 2h00 da madrugada, era suposto acabar a festa, pois os convidados tinham um autocarro à sua espera…</p><div class="video-container"><iframe src="https://www.youtube.com/embed/TqUvjZtLTpk" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p>Mas não acabou… já passava das 3h00 e a pista ainda estava ao rubro com os convidados e os noivos a dançar ao som de Prodigy (a pedido da irmã do noivo). Que festão, pena não ter mais vídeos…! Casamento Escocês, recomendo!</p><p>Abraço, Pedro Kolatz :)</p><p>Agora algumas fotos…</p><p>Clique nas imagens abaixo para as aumentar e ver em modo de galeria:</p>]]></content:encoded>
       
       
-      <category domain="https://kolatz.github.com/website/categories/casamentos/">casamentos</category>
+      <category domain="https://kolatz.com/categories/casamentos/">casamentos</category>
       
       
       
-      <comments>https://kolatz.github.com/website/casamentos/amy-jordan-2022/#disqus_thread</comments>
+      <comments>https://kolatz.com/casamentos/amy-jordan-2022/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Batizado Ema &amp; Gui 2022</title>
-      <link>https://kolatz.github.com/website/batizados/ema-gui-2022/</link>
-      <guid>https://kolatz.github.com/website/batizados/ema-gui-2022/</guid>
+      <link>https://kolatz.com/batizados/ema-gui-2022/</link>
+      <guid>https://kolatz.com/batizados/ema-gui-2022/</guid>
       <pubDate>Fri, 20 May 2022 23:00:00 GMT</pubDate>
       
         
@@ -73,21 +73,21 @@
       
       
       
-      <content:encoded><![CDATA[<p>Tivemos o prazer de ajudar a criar uma festa inesquecível para a Ema e para o Gui (minha filha e meu sobrinho) que se batizaram no <a href="https://www.hoteldamontanha.com/">Hotel da Montanha</a>, <a href="https://goo.gl/maps/zBe1kYvAmTavaR1H7">Pedrógão Pequeno</a>.</p><img src="/website/batizados/ema-gui-2022/EmaGui-2022.jpg" class="" title="Batizado Ema &amp; Gui"><p>Neste evento providenciámos o seguinte:</p><ul><li>Gestão da timeline do evento e sincronização com todos os participantes</li><li>Anúncio dos momentos chave ao microfone</li><li>Sonorização da zona onde os mais pequenos brincam nos insufláveis e outras atividades</li><li>Música ambiente durante a refeição</li><li>Música durante o corte do bolo</li><li>Festa com música de todos os estilos, mas principalmente Infantil, Kizomba e Pop ou R&amp;B atual</li></ul><p>E também um grande abraço aos meus grandes amigos DJ Xapa e DJ Bombas, por terem tomado as rédeas da cabine de DJ e me deixarem passar um bom bocado de tempo com a família também! xD</p><p>Abraço, Pedro Kolatz :)</p><p>Agora algumas fotos…</p><p>Clique nas imagens abaixo para as aumentar e ver em modo de galeria:</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>Tivemos o prazer de ajudar a criar uma festa inesquecível para a Ema e para o Gui (minha filha e meu sobrinho) que se batizaram no <a href="https://www.hoteldamontanha.com/">Hotel da Montanha</a>, <a href="https://goo.gl/maps/zBe1kYvAmTavaR1H7">Pedrógão Pequeno</a>.</p><img src="/batizados/ema-gui-2022/EmaGui-2022.jpg" class="" title="Batizado Ema &amp; Gui"><p>Neste evento providenciámos o seguinte:</p><ul><li>Gestão da timeline do evento e sincronização com todos os participantes</li><li>Anúncio dos momentos chave ao microfone</li><li>Sonorização da zona onde os mais pequenos brincam nos insufláveis e outras atividades</li><li>Música ambiente durante a refeição</li><li>Música durante o corte do bolo</li><li>Festa com música de todos os estilos, mas principalmente Infantil, Kizomba e Pop ou R&amp;B atual</li></ul><p>E também um grande abraço aos meus grandes amigos DJ Xapa e DJ Bombas, por terem tomado as rédeas da cabine de DJ e me deixarem passar um bom bocado de tempo com a família também! xD</p><p>Abraço, Pedro Kolatz :)</p><p>Agora algumas fotos…</p><p>Clique nas imagens abaixo para as aumentar e ver em modo de galeria:</p>]]></content:encoded>
       
       
-      <category domain="https://kolatz.github.com/website/categories/batizados/">batizados</category>
+      <category domain="https://kolatz.com/categories/batizados/">batizados</category>
       
       
       
-      <comments>https://kolatz.github.com/website/batizados/ema-gui-2022/#disqus_thread</comments>
+      <comments>https://kolatz.com/batizados/ema-gui-2022/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Casamento Raquel &amp; Luis 2019</title>
-      <link>https://kolatz.github.com/website/casamentos/raquel-luis-2019/</link>
-      <guid>https://kolatz.github.com/website/casamentos/raquel-luis-2019/</guid>
+      <link>https://kolatz.com/casamentos/raquel-luis-2019/</link>
+      <guid>https://kolatz.com/casamentos/raquel-luis-2019/</guid>
       <pubDate>Sat, 05 Oct 2019 23:00:00 GMT</pubDate>
       
         
@@ -97,21 +97,21 @@
       
       
       
-      <content:encoded><![CDATA[<p>Tivemos o prazer de ajudar a criar uma festa especial para a Raquel e o Luis que se casaram na <a href="https://quintaouteiro.com/">Quinta do Outeiro</a>, <a href="https://goo.gl/maps/mDqMyXSLWWTtu4oNA">Tentúgal</a>.</p><img src="/website/casamentos/raquel-luis-2019/CasamentoRaquelLuis.jpg" class="" title="Casamento Raqules &amp; Luis"><p>Neste evento providenciámos o seguinte:</p><ul><li>Gestão da timeline do evento e sincronização com todos os participantes</li><li>Anúncio dos momentos chave ao microfone</li><li>Sonorização do cocktail de boas-vindas no jardim</li><li>Elaboração de mini-mixs para dança em grupo, para a noiva e damas de honor e para o noivo e seus amigos</li><li>Música ambiente durante a refeição</li><li>Sonorização da video projeção</li><li>Música durante o corte do bolo no exterior</li><li>Festa com música de todos os estilos, mas principalmente Kizomba, Latina e pop rock anos 80s e 90s</li></ul><p>Aqui neste vídeo, podem ver um pequeno excerto da festa com Kizomba…</p><div class="video-container"><iframe src="https://www.youtube.com/embed/b-5GMIS5WYc" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p>Mas o meu fã número 1 está aqui!</p><div class="video-container"><iframe src="https://www.youtube.com/embed/DFu9g7xp4sw" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p>E um pequeno excerto da dança em grupo da noiva e damas de honor…</p><div class="video-container"><iframe src="https://www.youtube.com/embed/ssc_EpCiKbE" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p>Foi de facto uma grande festa! Obrigado Raquel e Luis!</p><p>Abraço, Pedro Kolatz :)</p><p>Agora algumas fotos…</p><p>Clique nas imagens abaixo para as aumentar e ver em modo de galeria:</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>Tivemos o prazer de ajudar a criar uma festa especial para a Raquel e o Luis que se casaram na <a href="https://quintaouteiro.com/">Quinta do Outeiro</a>, <a href="https://goo.gl/maps/mDqMyXSLWWTtu4oNA">Tentúgal</a>.</p><img src="/casamentos/raquel-luis-2019/CasamentoRaquelLuis.jpg" class="" title="Casamento Raqules &amp; Luis"><p>Neste evento providenciámos o seguinte:</p><ul><li>Gestão da timeline do evento e sincronização com todos os participantes</li><li>Anúncio dos momentos chave ao microfone</li><li>Sonorização do cocktail de boas-vindas no jardim</li><li>Elaboração de mini-mixs para dança em grupo, para a noiva e damas de honor e para o noivo e seus amigos</li><li>Música ambiente durante a refeição</li><li>Sonorização da video projeção</li><li>Música durante o corte do bolo no exterior</li><li>Festa com música de todos os estilos, mas principalmente Kizomba, Latina e pop rock anos 80s e 90s</li></ul><p>Aqui neste vídeo, podem ver um pequeno excerto da festa com Kizomba…</p><div class="video-container"><iframe src="https://www.youtube.com/embed/b-5GMIS5WYc" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p>Mas o meu fã número 1 está aqui!</p><div class="video-container"><iframe src="https://www.youtube.com/embed/DFu9g7xp4sw" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p>E um pequeno excerto da dança em grupo da noiva e damas de honor…</p><div class="video-container"><iframe src="https://www.youtube.com/embed/ssc_EpCiKbE" frameborder="0" loading="lazy" allowfullscreen></iframe></div><p>Foi de facto uma grande festa! Obrigado Raquel e Luis!</p><p>Abraço, Pedro Kolatz :)</p><p>Agora algumas fotos…</p><p>Clique nas imagens abaixo para as aumentar e ver em modo de galeria:</p>]]></content:encoded>
       
       
-      <category domain="https://kolatz.github.com/website/categories/casamentos/">casamentos</category>
+      <category domain="https://kolatz.com/categories/casamentos/">casamentos</category>
       
       
       
-      <comments>https://kolatz.github.com/website/casamentos/raquel-luis-2019/#disqus_thread</comments>
+      <comments>https://kolatz.com/casamentos/raquel-luis-2019/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Festas Bravo 2019</title>
-      <link>https://kolatz.github.com/website/festas/bravo-2019/</link>
-      <guid>https://kolatz.github.com/website/festas/bravo-2019/</guid>
+      <link>https://kolatz.com/festas/bravo-2019/</link>
+      <guid>https://kolatz.com/festas/bravo-2019/</guid>
       <pubDate>Mon, 23 Sep 2019 23:00:00 GMT</pubDate>
       
         
@@ -122,21 +122,21 @@
       
       
       
-      <content:encoded><![CDATA[<p>DJ Kolatz estará a finalizar a noite de 30 de Setembro de 2019 nas Festas do Bravo em Pedrógão Pequeno. Marquem na vossa agenda!</p><img src="/website/festas/bravo-2019/Bravo-Cartaz19.jpg" class="" title="Bravo - Cartaz para 2019"><p>Abraço, Pedro Kolatz :)</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>DJ Kolatz estará a finalizar a noite de 30 de Setembro de 2019 nas Festas do Bravo em Pedrógão Pequeno. Marquem na vossa agenda!</p><img src="/festas/bravo-2019/Bravo-Cartaz19.jpg" class="" title="Bravo - Cartaz para 2019"><p>Abraço, Pedro Kolatz :)</p>]]></content:encoded>
       
       
-      <category domain="https://kolatz.github.com/website/categories/festas/">festas</category>
+      <category domain="https://kolatz.com/categories/festas/">festas</category>
       
       
       
-      <comments>https://kolatz.github.com/website/festas/bravo-2019/#disqus_thread</comments>
+      <comments>https://kolatz.com/festas/bravo-2019/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Festas Bravo 2018</title>
-      <link>https://kolatz.github.com/website/festas/bravo-2018/</link>
-      <guid>https://kolatz.github.com/website/festas/bravo-2018/</guid>
+      <link>https://kolatz.com/festas/bravo-2018/</link>
+      <guid>https://kolatz.com/festas/bravo-2018/</guid>
       <pubDate>Tue, 11 Sep 2018 23:00:00 GMT</pubDate>
       
         
@@ -147,21 +147,21 @@
       
       
       
-      <content:encoded><![CDATA[<p>DJ Kolatz estará a finalizar a noite de 5 de Outubro de 2018 nas Festas do Bravo em Pedrógão Pequeno. Marquem na vossa agenda!</p><img src="/website/festas/bravo-2018/Bravo-Cartaz18.jpg" class="" title="Bravo - Cartaz para 2018"><p>Abraço, Pedro Kolatz :)</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>DJ Kolatz estará a finalizar a noite de 5 de Outubro de 2018 nas Festas do Bravo em Pedrógão Pequeno. Marquem na vossa agenda!</p><img src="/festas/bravo-2018/Bravo-Cartaz18.jpg" class="" title="Bravo - Cartaz para 2018"><p>Abraço, Pedro Kolatz :)</p>]]></content:encoded>
       
       
-      <category domain="https://kolatz.github.com/website/categories/festas/">festas</category>
+      <category domain="https://kolatz.com/categories/festas/">festas</category>
       
       
       
-      <comments>https://kolatz.github.com/website/festas/bravo-2018/#disqus_thread</comments>
+      <comments>https://kolatz.com/festas/bravo-2018/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Festas Sra. Confianca 2018</title>
-      <link>https://kolatz.github.com/website/festas/sra-confianca-2018/</link>
-      <guid>https://kolatz.github.com/website/festas/sra-confianca-2018/</guid>
+      <link>https://kolatz.com/festas/sra-confianca-2018/</link>
+      <guid>https://kolatz.com/festas/sra-confianca-2018/</guid>
       <pubDate>Tue, 31 Jul 2018 23:00:00 GMT</pubDate>
       
         
@@ -171,21 +171,21 @@
       
       
       
-      <content:encoded><![CDATA[<p>DJ Kolatz estará a finalizar a noite de 8 de Setembro de 2018 nas Festas da Sra. da Confiança em Pedrógão Pequeno. Marquem na vossa agenda!</p><img src="/website/festas/sra-confianca-2018/SraConfianca-Cartaz18.jpg" class="" title="Sra. da Confiança - Cartaz para 2018"><p>Abraço, Pedro Kolatz :)</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>DJ Kolatz estará a finalizar a noite de 8 de Setembro de 2018 nas Festas da Sra. da Confiança em Pedrógão Pequeno. Marquem na vossa agenda!</p><img src="/festas/sra-confianca-2018/SraConfianca-Cartaz18.jpg" class="" title="Sra. da Confiança - Cartaz para 2018"><p>Abraço, Pedro Kolatz :)</p>]]></content:encoded>
       
       
-      <category domain="https://kolatz.github.com/website/categories/festas/">festas</category>
+      <category domain="https://kolatz.com/categories/festas/">festas</category>
       
       
       
-      <comments>https://kolatz.github.com/website/festas/sra-confianca-2018/#disqus_thread</comments>
+      <comments>https://kolatz.com/festas/sra-confianca-2018/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Festas Bravo 2017</title>
-      <link>https://kolatz.github.com/website/festas/bravo-2017/</link>
-      <guid>https://kolatz.github.com/website/festas/bravo-2017/</guid>
+      <link>https://kolatz.com/festas/bravo-2017/</link>
+      <guid>https://kolatz.com/festas/bravo-2017/</guid>
       <pubDate>Thu, 31 Aug 2017 23:00:00 GMT</pubDate>
       
         
@@ -196,14 +196,14 @@
       
       
       
-      <content:encoded><![CDATA[<p>DJ Kolatz estará a finalizar a noite de 22 de Setembro de 2017 nas Festas do Bravo em Pedrógão Pequeno. Marquem na vossa agenda!</p><img src="/website/festas/bravo-2017/Bravo-Cartaz17.jpg" class="" title="Bravo - Cartaz para 2017"><p>Abraço, Pedro Kolatz :)</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>DJ Kolatz estará a finalizar a noite de 22 de Setembro de 2017 nas Festas do Bravo em Pedrógão Pequeno. Marquem na vossa agenda!</p><img src="/festas/bravo-2017/Bravo-Cartaz17.jpg" class="" title="Bravo - Cartaz para 2017"><p>Abraço, Pedro Kolatz :)</p>]]></content:encoded>
       
       
-      <category domain="https://kolatz.github.com/website/categories/festas/">festas</category>
+      <category domain="https://kolatz.com/categories/festas/">festas</category>
       
       
       
-      <comments>https://kolatz.github.com/website/festas/bravo-2017/#disqus_thread</comments>
+      <comments>https://kolatz.com/festas/bravo-2017/#disqus_thread</comments>
       
     </item>
     
