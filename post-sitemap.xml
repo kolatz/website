@@ -9,8 +9,100 @@
 
 
     <url>
+        <loc>https://kolatz.com/carnaval/pinheirinho-2023/</loc>
+        <lastmod>2023-06-30T17:06:32.624Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto01.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto02.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto03.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto04.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto05.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto06.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto07.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto08.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto09.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto10.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto11.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto12.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto13.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>https://kolatz.com/foto14.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>https://kolatz.com/batizados/alice-2022/</loc>
-        <lastmod>2022-09-25T14:57:04.923Z</lastmod>
+        <lastmod>2022-09-25T14:57:04.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -90,7 +182,7 @@
 
     <url>
         <loc>https://kolatz.com/festas/bravo-2022/</loc>
-        <lastmod>2022-09-25T12:25:47.425Z</lastmod>
+        <lastmod>2022-09-25T12:25:47.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -98,7 +190,7 @@
 
     <url>
         <loc>https://kolatz.com/festas/bravo-2018/</loc>
-        <lastmod>2022-09-25T12:24:57.662Z</lastmod>
+        <lastmod>2022-09-25T12:24:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -106,7 +198,7 @@
 
     <url>
         <loc>https://kolatz.com/casamentos/raquel-luis-2019/</loc>
-        <lastmod>2022-08-15T23:39:56.294Z</lastmod>
+        <lastmod>2022-08-15T23:39:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -288,7 +380,7 @@
 
     <url>
         <loc>https://kolatz.com/batizados/ema-gui-2022/</loc>
-        <lastmod>2022-08-13T13:06:53.983Z</lastmod>
+        <lastmod>2022-08-13T13:06:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -380,7 +472,7 @@
 
     <url>
         <loc>https://kolatz.com/casamentos/amy-jordan-2022/</loc>
-        <lastmod>2022-08-12T16:09:27.221Z</lastmod>
+        <lastmod>2022-08-12T16:09:27.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -436,7 +528,7 @@
 
     <url>
         <loc>https://kolatz.com/festas/bravo-2017/</loc>
-        <lastmod>2022-08-12T09:16:33.476Z</lastmod>
+        <lastmod>2022-08-12T09:16:33.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -444,7 +536,7 @@
 
     <url>
         <loc>https://kolatz.com/festas/sra-confianca-2018/</loc>
-        <lastmod>2022-08-11T19:07:52.346Z</lastmod>
+        <lastmod>2022-08-11T19:07:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -452,7 +544,7 @@
 
     <url>
         <loc>https://kolatz.com/festas/bravo-2019/</loc>
-        <lastmod>2022-08-11T15:46:07.301Z</lastmod>
+        <lastmod>2022-08-11T15:46:07.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -460,7 +552,7 @@
 
     <url>
         <loc>https://kolatz.com/festas/sra-confianca-2022/</loc>
-        <lastmod>2022-08-11T15:44:11.503Z</lastmod>
+        <lastmod>2022-08-11T15:44:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
