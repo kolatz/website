@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://kolatz.com/festas/folk-pedrogao-2023/</loc>
+        <lastmod>2023-08-11T09:19:45.060Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kolatz.com/festas/bravo-2022/</loc>
         <lastmod>2023-08-11T09:03:03.086Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,14 +27,6 @@
     <url>
         <loc>https://kolatz.com/festas/sra-confianca-2022/</loc>
         <lastmod>2023-08-11T09:02:33.165Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kolatz.com/festas/folk-pedrogao-2023/</loc>
-        <lastmod>2023-08-11T09:01:11.163Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
