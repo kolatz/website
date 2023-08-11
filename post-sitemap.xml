@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://kolatz.com/festas/sobral-2023/</loc>
+        <lastmod>2023-08-11T11:27:49.770Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kolatz.com/festas/folk-pedrogao-2023/</loc>
         <lastmod>2023-08-11T09:19:45.060Z</lastmod>
         <changefreq>weekly</changefreq>
