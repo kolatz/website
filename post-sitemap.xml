@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>https://kolatz.com/festas/bravo-2022/</loc>
+        <lastmod>2023-08-11T09:03:03.086Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kolatz.com/festas/sra-confianca-2022/</loc>
+        <lastmod>2023-08-11T09:02:33.165Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kolatz.com/festas/folk-pedrogao-2023/</loc>
+        <lastmod>2023-08-11T09:01:11.163Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kolatz.com/festas/sta-rita-2023/</loc>
         <lastmod>2023-07-18T18:34:44.343Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -327,14 +351,6 @@
             <image:loc>https://kolatz.com/foto12.jpg</image:loc>
 
         </image:image>
-
-    </url>
-
-    <url>
-        <loc>https://kolatz.com/festas/bravo-2022/</loc>
-        <lastmod>2022-09-25T12:25:47.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
 
     </url>
 
@@ -695,14 +711,6 @@
     <url>
         <loc>https://kolatz.com/festas/bravo-2019/</loc>
         <lastmod>2022-08-11T15:46:07.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kolatz.com/festas/sra-confianca-2022/</loc>
-        <lastmod>2022-08-11T15:44:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
