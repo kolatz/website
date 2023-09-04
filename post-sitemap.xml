@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://kolatz.com/festas/bravo-2023/</loc>
+        <lastmod>2023-09-04T16:30:52.308Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kolatz.com/festas/sra-confianca-2023/</loc>
         <lastmod>2023-08-28T10:11:59.549Z</lastmod>
         <changefreq>weekly</changefreq>
