@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://kolatz.com/festas/bravo-2024/</loc>
+        <lastmod>2024-09-08T08:38:26.407Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kolatz.com/festas/sra-confianca-2024/</loc>
+        <lastmod>2024-09-08T08:23:05.585Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kolatz.com/sunsets/sra-confianca-sunset-20240906/</loc>
         <lastmod>2024-08-30T14:18:17.119Z</lastmod>
         <changefreq>weekly</changefreq>
