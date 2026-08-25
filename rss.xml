@@ -3,7 +3,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>DJ Kolatz</title>
+    <title>Pedro Kolatz</title>
     <link>https://kolatz.com/</link>
     
     <atom:link href="https://kolatz.com/rss.xml" rel="self" type="application/rss+xml"/>
